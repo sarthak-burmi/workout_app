@@ -1,16 +1,21 @@
-# workout_app
 
-A new Flutter project.
+# Workout App
+
+This is a Workout App built using Flutter. The app includes features such as exercise timers, motivational quotes, and user data management. It uses Hive for data persistence and Provider for state management.
+
+## Features
+
+- User Profile Management
+- Exercise Timers
+- Background Music Toggle
+- Motivational Quotes
+- Data Persistence with Hive
+- State Management with Provider
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Dart SDK
+- A code editor (e.g., VSCode, Android Studio)
